@@ -1,6 +1,6 @@
 # MultiValuedMPMethods
 
-This link contains all the Multi-valued_MP methods mentioned in our work :
+This link contains all the Multi-valued MP methods mentioned in our work :
 
 [Multi-valued morphological profile using the lexicographic vector ordering algorithm](https://github.com/slhaddad/multi-valued-mp-lexicographic-methods.git)
 
