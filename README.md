@@ -13,5 +13,3 @@ This link contains all the Multi-valued_MP methods mentioned in our work :
 [the multi-valued morphological profile using the PROMETHEE vector ordering algorithm with the "U-shape" preference function](https://github.com/slhaddad/multi-valued-mp-promethee-ushape-method.git)
 
 [the multi-valued morphological profile using the PROMETHEE vector ordering algorithm with the "Gaussian" preference function](https://github.com/slhaddad/multi-valued-mp-promethee-gaussian-method.git)
-
-
