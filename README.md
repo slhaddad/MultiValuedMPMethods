@@ -4,16 +4,16 @@ This page gathers the programs that compute the **multi-valued morphological pro
 
 | Vector ordering method | Repository |
 |---|---|
-| AHP | [Multi-valued_MP_AHP_Method](https://github.com/slhaddad/Multi-valued_MP_AHP_Method) |
-| PROMETHEE (usual preference function) | [Multi-valued_MP_PROMETHEE_Usual_Method](https://github.com/slhaddad/Multi-valued_MP_PROMETHEE_Usual_Method) |
-| PROMETHEE (U-shape preference function) | [Multi-valued_MP_PROMETHEE_U-Shape_Method](https://github.com/slhaddad/Multi-valued_MP_PROMETHEE_U-Shape_Method) |
-| PROMETHEE (level preference function) | [Multi-valued_MP_PROMETHEE_Level_Method](https://github.com/slhaddad/Multi-valued_MP_PROMETHEE_Level_Method) |
-| PROMETHEE (Gaussian preference function) | [Multi-valued_MP_PROMETHEE_Gaussian_Method](https://github.com/slhaddad/Multi-valued_MP_PROMETHEE_Gaussian_Method) |
-| QUALIFLEX | [Multi-valued_MP_QUALIFLEX_Method](https://github.com/slhaddad/Multi-valued_MP_QUALIFLEX_Method) |
-| TOPSIS | [Multi-valued_MP_TOPSIS_Method](https://github.com/slhaddad/Multi-valued_MP_TOPSIS_Method) |
+| AHP | [Multi-valued_MP_AHP_Method](https://github.com/slhaddad/multi-valued-mp-ahp-method) |
+| PROMETHEE (usual preference function) | [Multi-valued_MP_PROMETHEE_Usual_Method](https://github.com/slhaddad/multi-valued-mp-promethee-usual-method) |
+| PROMETHEE (U-shape preference function) | [Multi-valued_MP_PROMETHEE_U-Shape_Method](https://github.com/slhaddad/multi-valued-mp-promethee-ushape-method) |
+| PROMETHEE (level preference function) | [Multi-valued_MP_PROMETHEE_Level_Method](https://github.com/slhaddad/multi-valued-mp-promethee-level-method) |
+| PROMETHEE (Gaussian preference function) | [Multi-valued_MP_PROMETHEE_Gaussian_Method](https://github.com/slhaddad/multi-valued-mp-promethee-gaussian-method) |
+| QUALIFLEX | [Multi-valued_MP_QUALIFLEX_Method](https://github.com/slhaddad/multi-valued-mp-qualiflex-method) |
+| TOPSIS | [Multi-valued_MP_TOPSIS_Method](https://github.com/slhaddad/multi-valued-mp-topsis-method) |
 | SID cumulative distance | [Multi-valued_MP_SID_Method](https://github.com/slhaddad/Multi-valued_MP_SID_Method) |
 | SAD cumulative distance | [Multi-valued_MP_SAD_Method](https://github.com/slhaddad/Multi-valued_MP_SAD_Method) |
-| Conventional lexicographic order | [Multi-valued_MP_Lexicographic_Method](https://github.com/slhaddad/Multi-valued_MP_Lexicographic_Method) |
+| Conventional lexicographic order | [Multi-valued_MP_Lexicographic_Method](https://github.com/slhaddad/multi-valued-mp-lexicographic-methods) |
 | Numeral system (base X) | [Multi-valued_MP_Numeral_System_Method](https://github.com/slhaddad/Multi-valued_MP_Numeral_System_Method) |
 | Outranking relation | [Multi-valued_MP_Outranking_Method](https://github.com/slhaddad/Multi-valued_MP_Outranking_Method) |
 
