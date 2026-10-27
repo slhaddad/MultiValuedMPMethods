@@ -19,6 +19,12 @@ This page gathers the programs that compute the **multi-valued morphological pro
 
 All programs are written in C# (WPF, .NET 10) and share the same interface, parameters and outputs (TIFF images and ENVI multiband files). See the README of each repository for the description of the method and how to run it.
 
+## Version, executables and results
+
+- **Current version: 5.** Each repository contains only the latest version of its program (version 5). In the AHP, PROMETHEE, QUALIFLEX, TOPSIS, SID, SAD and outranking programs, version 5 keeps the geodesic reconstruction free of Condorcet cycles thanks to a fixed reference order computed over the whole image.
+- **Executables:** each program is a single self-contained Windows executable (`EMP_<method>.exe`: no installation, neither .NET nor VS Code required). Download it from the **Releases** page of the method's repository (release `v5`).
+- **Results:** all results are written to the **`IMAGES-résultat`** folder, created next to the executable (or next to the `.sln` file when the program is run from VS Code): one TIFF image per band, structuring-element size and operator, plus the ENVI multiband files `OuvertReconstruction-multibande`, `FermeReconstruction-multibande` and `EXTENDED-PROFIL-MOR-multibande` (`.img` + `.hdr`).
+
 ## Multivariate Mathematical Morphology through Vector Ordering
 
 The code published in this repository implements new algorithms that extend mathematical morphology operators to multivalued images, particularly multispectral satellite images. These approaches also apply to RGB color images.
